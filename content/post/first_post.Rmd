@@ -1,0 +1,20 @@
+---
+title: "Why did this take so long?"
+date: 2020-07-23
+categories: ["Blog"]
+tags: ["overview"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+For someone who has bought into social media and reproducible research in so many other ways,
+it's difficult to pinpoint exactly why it took me this long to invest more fully in a website for myself.
+Regardless, I'm pleased to finally be taking the leap and creating a place to store information about my professional life,
+as well as details regarding my personal life that may intersect with my profession.
+
+I'm glad to lean on the open source community at large for the infrastructure and tools to make this a user-friendly (me) and audience-friendly (you) experience.
+I'm looking forward to continuing to update here,
+and migrate content out of my (sadly wallowing, kind of embarrassing)
+previous website and blog.

@@ -1,0 +1,96 @@
+theme = "soho"
+baseurl = "https://katehertweck.com/"
+languageCode = "en"
+title = "Kate Hertweck"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+summarylength = 10
+enableEmoji = true
+paginate = 5
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+title = "Kate Hertweck"
+description = "science, education, bioinformatics"
+# gravatar = "soho@example.com"
+images = ["images/kate_headshot.jpg"]
+profilePicture = "images/kate_headshot.jpg"
+copyright = "Kate Hertweck"
+license = "CC BY-SA 4.0"
+licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+builtWith = true
+mainSections = ["post"]
+
+## Set custom theme color.
+themeColor = "#582994"
+
+  [[params.socialIcons]]
+  icon = "fa-linkedin"
+  title = "LinkedIn"
+  url = "https://www.linkedin.com/in/katehertweck/"
+
+  [[params.socialIcons]]
+  icon = "fa-github"
+  title = "GitHub"
+  url = "https://github.com/k8hertweck"
+
+  [[params.socialIcons]]
+  icon = "fa-twitter"
+  title = "Twitter"
+  url = "https://twitter.com/k8hert"
+
+  [[params.socialIcons]]
+  icon = "fa-orcid"
+  title = "ORCID"
+  url = "https://orcid.org/0000-0002-4026-4612"
+
+[taxonomies]
+  series = "series"
+  category = "categories"
+  tag = "tags"
+
+[menu]
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 100
+  identifier = "posts"
+  url = "/posts/"
+
+  [[menu.main]]
+  name = "Categories"
+  weight = 200
+  identifier = "categories"
+  url = "/categories/"
+
+  [[menu.main]]
+  name = "Tags"
+  weight = 200
+  identifier = "tags"
+  url = "/tags/"
+
+  [[menu.main]]
+  name = "About"
+  identifier = "about"
+  weight = 10
+  url = "/about/"
+
+  [[menu.main]]
+  name = "CV"
+  identifier = "cv"
+  weight = 20
+  url = "/cv/"
+
+[markup]
+
+  [markup.highlight]
+  codeFences = true
+  guessSyntax = false
+  hl_Lines = ""
+  lineNoStart = 1
+  lineNos = false
+  lineNumbersInTable = true
+  noClasses = true
+  style = "monokai"
+  tabWidth = 4
+

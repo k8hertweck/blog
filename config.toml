@@ -76,10 +76,16 @@ themeColor = "#582994"
   url = "/about/"
 
   [[menu.main]]
-  name = "CV"
-  identifier = "cv"
+  name = "Projects"
+  identifier = "projects"
   weight = 20
-  url = "/cv/"
+  url = "/projects/"
+
+  [[menu.main]]
+  name = "Publications"
+  identifier = "publications"
+  weight = 20
+  url = "/publications/"
 
 [markup]
 

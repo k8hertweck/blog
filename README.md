@@ -15,4 +15,5 @@ which is the preferred method mentioned in the [`blogdown` book](https://bookdow
 - install and load `blogdown` (available through CRAN)
 - preview the website locally using `blogdown::serve_site()`; 
 this autoupdates as changes are saved
+- to stop server, use `servr::daemon_stop(1)`
 - for more information, see the [`blogdown` documentation](https://github.com/rstudio/blogdown)

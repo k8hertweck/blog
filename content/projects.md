@@ -17,3 +17,7 @@ title: Projects
 
 [MetaDocencia](https://metadocencia.netlify.app)
 
+## Merely Useful
+
+[Merely Useful](https://merely-useful.github.io)
+

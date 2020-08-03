@@ -7,6 +7,7 @@ enableInlineShortcodes = true
 summarylength = 10
 enableEmoji = true
 paginate = 5
+googleAnalytics = "UA-174380839-1"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]

@@ -1,6 +1,7 @@
 # Kate Hertweck's website and blog
 
-This repository contains the code used to build and deploy my website and blog.
+This repository contains the code used to build and deploy my website and blog,
+located [here](http://katehertweck.com).
 
 ## Tools 
 
@@ -15,5 +16,5 @@ which is the preferred method mentioned in the [`blogdown` book](https://bookdow
 - install and load `blogdown` (available through CRAN)
 - preview the website locally using `blogdown::serve_site()`; 
 this autoupdates as changes are saved
-- to stop server, use `servr::daemon_stop(1)`
+- to stop server, use `blogdown::stop_server()`
 - for more information, see the [`blogdown` documentation](https://github.com/rstudio/blogdown)

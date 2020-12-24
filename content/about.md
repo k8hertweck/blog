@@ -1,7 +1,6 @@
 ---
 aliases:
 - about-us
-date: "2020-07-28"
 title: About
 ---
 

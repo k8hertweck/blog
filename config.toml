@@ -59,12 +59,6 @@ themeColor = "#582994"
   url = "/posts/"
 
   [[menu.main]]
-  name = "Categories"
-  weight = 200
-  identifier = "categories"
-  url = "/categories/"
-
-  [[menu.main]]
   name = "Tags"
   weight = 200
   identifier = "tags"
@@ -81,12 +75,6 @@ themeColor = "#582994"
   identifier = "projects"
   weight = 20
   url = "/projects/"
-
-  [[menu.main]]
-  name = "Publications"
-  identifier = "publications"
-  weight = 20
-  url = "/publications/"
 
 [markup]
 

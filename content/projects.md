@@ -57,5 +57,6 @@ I also develop and teach workshops for conferences.
 Workshop materials are available [in this GitHub repository](https://github.com/k8hertweck/professional_assets_data_science).
 
 This workshop has been presented at:
-- [Women in Data Science (WiDS) Puget Sound conference](https://www.widspugetsound.org), May 2020, material available as [powerpoint](slides/professional-assets-data-scienceWIDS2020.pdf) and [Google Slides](https://docs.google.com/presentation/d/1Atp76i_4-Qa755moKgdZDTuhtDhbBNokEqnnuNgObPw/edit?usp=sharing), video available [here](https://datacircles.org/blog-1/conference-video-kate-hertweck-phd-workshop-more-than-code-professional-assets-in-data-science-careers)
-- [CarpentryCon @ Home](https://2020.carpentrycon.org), August 2020, materials available as [powerpoint](slides/professional-assets-data-scienceCCHome2020.pdf) and [Google Slides](https://docs.google.com/presentation/d/1Iso5pdK_PaMRnPzWhlFoPAz5dI6JWQxrGHPMYyTzsTU/edit?usp=sharing)
+
+* [Women in Data Science (WiDS) Puget Sound conference](https://www.widspugetsound.org), May 2020, material available as [powerpoint](slides/professional-assets-data-scienceWIDS2020.pdf) and [Google Slides](https://docs.google.com/presentation/d/1Atp76i_4-Qa755moKgdZDTuhtDhbBNokEqnnuNgObPw/edit?usp=sharing), video available [here](https://datacircles.org/blog-1/conference-video-kate-hertweck-phd-workshop-more-than-code-professional-assets-in-data-science-careers)
+* [CarpentryCon @ Home](https://2020.carpentrycon.org), August 2020, materials available as [powerpoint](slides/professional-assets-data-scienceCCHome2020.pdf) and [Google Slides](https://docs.google.com/presentation/d/1Iso5pdK_PaMRnPzWhlFoPAz5dI6JWQxrGHPMYyTzsTU/edit?usp=sharing)

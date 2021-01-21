@@ -16,7 +16,7 @@ My initial instinct had been to use a Jekyll site
 with the [Minimal Mistakes theme](https://github.com/mmistakes/minimal-mistakes)
 and deploy with [GitHub Pages](https://pages.github.com),
 an approach that was familiar to me from websites I support during
-my day job at [Fred Hutch]({{< ref "/projects#FredHutch" >}}).
+my day job at [Fred Hutch](/projects#FredHutch).
 
 That approach lasted all of five days,
 after which I decided to take the plunge and

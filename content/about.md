@@ -4,6 +4,19 @@ aliases:
 title: About
 ---
 
+Please visit the following pages on this site for more information on my work:
+- [Projects](/projects/): Current and past projects, including research in which I engage, workshops I teach, and training-based non-profits I support. Includes links to websites, documentation and workshop recordings.
+- [Publications](/publications/): Research bibliography and links to online versions, including PDFs for those not available openly and recordings of associated presentations.
+- [Blog](/posts/): Musing and storytelling from my professional (and professionally-adjacent) life.
+
+External sites:
+- [LinkedIn](https://www.linkedin.com/in/katehertweck/)
+- [GitHub](https://github.com/k8hertweck)
+- [Twitter](https://twitter.com/k8hert)
+- [ORCID](https://orcid.org/0000-0002-4026-4612)
+
+## Biography
+
 Kate Hertweck is a scientist and educator
 who endeavors to uphold core values like:
 diversity/equity/inclusion, 
@@ -27,8 +40,3 @@ Kate likes to spend their time enjoying all things science fiction
 and knitting sweaters from handspun yarn for their tiny, grumpy, elderly rescue dog, Loki.
 Kate uses perceived pronouns,
 so any pronoun you think fits also works for them.
-
-Please visit the following pages for more information on my work:
-- [Projects](/projects/): Current and past projects, including research in which I engage, workshops I teach, and training-based non-profits I support. Includes links to websites, documentation and workshop recordings.
-- [Publications](/publications/): Research bibliography and links to online versions, including PDFs for those not available openly and recordings of associated presentations.
-- [Blog](/posts/): Musing and storytelling from my professional (and professionally-adjacent) life.

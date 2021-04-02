@@ -8,7 +8,7 @@ Please visit the following pages on this site for more information on my work:
 
 - [Projects](/projects/): Current and past projects, including research in which I engage, workshops I teach, and training-based non-profits I support. Includes links to websites, documentation and workshop recordings.
 - [Publications](/publications/): Research bibliography and links to online versions, including PDFs for those not available openly and recordings of associated presentations.
-- [Blog](/posts/): Musing and storytelling from my professional (and professionally-adjacent) life.
+- [Blog posts](/posts/): Musing and storytelling from my professional (and professionally-adjacent) life.
 
 External sites:
 

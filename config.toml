@@ -75,6 +75,12 @@ themeColor = "#582994"
   identifier = "projects"
   weight = 20
   url = "/projects/"
+  
+  [[menu.main]]
+  name = "Publications"
+  identifier = "publications"
+  weight = 20
+  url = "/publications/"
 
 [markup]
 

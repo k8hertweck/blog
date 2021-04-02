@@ -6,7 +6,7 @@ title: Projects
 
 My [publications](/publications/) page includes information about my professional experience,
 links for professional works (publications, presentations, etc) and associated metrics,
-and professional works grouped by area of research.
+and specific deliverable products grouped by topic area.
 
 ## Fred Hutch
 

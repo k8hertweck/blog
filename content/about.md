@@ -12,10 +12,10 @@ Please visit the following pages on this site for more information on my work:
 
 External sites:
 
-- [LinkedIn](https://www.linkedin.com/in/katehertweck/)
-- [GitHub](https://github.com/k8hertweck)
-- [Twitter](https://twitter.com/k8hert)
-- [ORCID](https://orcid.org/0000-0002-4026-4612)
+- [LinkedIn](https://www.linkedin.com/in/katehertweck/): complete educational and job history
+- [GitHub](https://github.com/k8hertweck): projects and websites for research and training
+- [Twitter](https://twitter.com/k8hert): about life as a scientist and educator
+- [ORCID](https://orcid.org/0000-0002-4026-4612): education and job history, publication record
 
 ## Biography
 
@@ -30,9 +30,10 @@ where they began working exclusively in computational biology.
 Kate then spent four years as an assistant professor teaching 
 bioinformatics, genomics, plant taxonomy,
 and scientific communication.
-Kate is currently bioinformatics training manager at [Fred Hutchinson Cancer Research Center](http://fredhutch.org),
-where they lead and implement [training and community building](http://thecoop.fredhutch.org)
-to support the data-intensive biomedical research community.
+Although Kate has since transitioned away from teaching formal university courses,
+they now specialize in training and community building that supports researchers
+(specifically, biomedical researchers) 
+in adopting reproducible computational methods and other aspects of open science. 
 Kate is an instructor and trainer for [The Carpentries](https://carpentries.org)
 (serving as a leader in community governance from 2016-2019),
 and is an advisor for [Metadocencia](https://metadocencia.netlify.app).

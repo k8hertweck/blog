@@ -8,18 +8,6 @@ My [publications](/publications/) page includes information about my professiona
 links for professional works (publications, presentations, etc) and associated metrics,
 and specific deliverable products grouped by topic area.
 
-## Fred Hutch
-
-I work for [Fred Hutchinson Cancer Research Center](https://fredhutch.org)
-as Bioinformatics Training Manager,
-developing and implementing a training program for computational research methods
-for our research community.
-Most of my effort is dedicated to developing curriculum in the form of
-short courses through [fredhutch.io](http://www.fredhutch.io),
-and building community to share knowledge via the
-Fred Hutch Bioinformatics and Data Science Cooperative,
-or [The Coop](http://thecoop.fredhutch.org).
-
 ## The Carpentries
 
 [The Carpentries](https://carpentries.org) is a non-profit organization
@@ -41,7 +29,7 @@ I collaborate with a small group of diverse researchers on a book project,
 called [Merely Useful](https://merely-useful.github.io) when it began in 2018.
 The first book from this project,
 [*Research Software Engineering with Python: Building software that makes research possible*](https://merely-useful.github.io/py-rse/index.html),
-will be published by Taylor and Francis by spring 2021.
+was published by Taylor and Francis in July 2021.
 We have begun work on the second book,
 about research software engineering in R.
 All of our work for this project is publicly available on [GitHub](https://github.com/merely-useful/),
@@ -49,8 +37,20 @@ both during and after development.
 
 ## Workshops
 
-In addition to the technical workshops I teach through Fred Hutch and the Carpentries,
-I also develop and teach workshops for conferences. 
+I teach workshops related to both technical and non-technical (e.g., professional development) skills.
+All workshop materials listed below are open source and useful in self-directed learning.
+
+### Technical workshops
+
+My teaching methods for technical skills related to data and computing skills are heavily influenced by The Carpentries,
+which are designed to help researchers and research support staff gain technical skills.
+More information about Carpentries workshops,
+including lesson materials and curricula,
+is available [here](https://carpentries.org/workshops/).
+
+While at Fred Hutch,
+I adapted and developed workshop materials to teach data and computing skills to biomedical researchers.
+These training materials are available through [fredhutch.io](http://www.fredhutch.io).
 
 ### Professional assets in data science careers
 

@@ -30,10 +30,9 @@ where they began working exclusively in computational biology.
 Kate then spent four years as an assistant professor teaching 
 bioinformatics, genomics, plant taxonomy,
 and scientific communication.
-Although Kate has since transitioned away from teaching formal university courses,
-they now specialize in training and community building that supports researchers
-(specifically, biomedical researchers) 
-in adopting reproducible computational methods and other aspects of open science. 
+Kate then transitioned to supporting biomedical researchers in applying reproducible computational methods and other open science skills,
+first as bioinformatics training manager at Fred Hutchinson Cancer Research Center,
+and currently at [Chan Zuckerberg Initiative](https://chanzuckerberg.com).
 Kate is an instructor and trainer for [The Carpentries](https://carpentries.org)
 (serving as a leader in community governance from 2016-2019),
 and is an advisor for [Metadocencia](https://metadocencia.netlify.app).

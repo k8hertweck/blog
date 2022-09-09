@@ -33,12 +33,10 @@ and scientific communication.
 Kate then transitioned to supporting biomedical researchers in applying reproducible computational methods and other open science skills,
 first as bioinformatics training manager at Fred Hutchinson Cancer Research Center,
 and currently at [Chan Zuckerberg Initiative](https://chanzuckerberg.com).
-Kate is an instructor and trainer for [The Carpentries](https://carpentries.org)
-(serving as a leader in community governance from 2016-2019),
-and is an advisor for [Metadocencia](https://metadocencia.netlify.app).
-These non-profit groups support best practices in teaching
-for data/computational skills and Spanish-speaking educators, respectively.
+Kate currently works as Program Manager for the Open Science program at CZI.
+Kate has volunteered for a variety of open science training groups
+(more information available on the [Projects](/projects/) page).
 Kate likes to spend their time enjoying all things science fiction
-and knitting sweaters from handspun yarn for their tiny, grumpy, elderly rescue dog, Loki.
+and knitting sweaters from handspun yarn for their tiny (and sometimes angry) dog.
 Kate uses perceived pronouns,
 so any pronoun you think fits also works for them.

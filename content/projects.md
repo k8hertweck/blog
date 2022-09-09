@@ -13,15 +13,16 @@ and specific deliverable products grouped by topic area.
 [The Carpentries](https://carpentries.org) is a non-profit organization
 that teaches data and computational skills to researchers.
 I have been an instructor for the group since 2014,
-and a trainer (who teaches people to be instructors)
-since 2019.
+and was a trainer (who teaches people to be instructors)
+from 2019 to 2022.
 I also served in leadership of community governance from 2015-2018.
 
 ## MetaDocencia
 
-[MetaDocencia](https://metadocencia.netlify.app) is a non-profit organization
-that helps Spanish-speaking teachers improve their instructional methods.
-I'm proud to serve as an advisor for their growing program.
+[MetaDocencia](https://metadocencia.org) is a non-profit organization
+dedicated to teaching open science tools and practices for training and capacity building
+to researchers and educators in Spanish-speaking regions.
+I was pleased to serve as an advisor for them from 2020 to 2022.
 
 ## Merely Useful
 
@@ -34,6 +35,13 @@ We have begun work on the second book,
 about research software engineering in R.
 All of our work for this project is publicly available on [GitHub](https://github.com/merely-useful/),
 both during and after development.
+
+## Resources for open science
+
+In my initial role at CZI (2021-2022),
+I created an [Open Science Resources website](https://chanzuckerberg.github.io/open-science/)
+to highlight information about sharing protocols, software,
+data, and preprints/publications with biomedical researchers.
 
 ## Workshops
 
@@ -52,7 +60,13 @@ While at Fred Hutch,
 I adapted and developed workshop materials to teach data and computing skills to biomedical researchers.
 These training materials are available through [fredhutch.io](http://www.fredhutch.io).
 
-### Professional assets in data science careers
+### Non-technical workshops
+
+In addition to teaching [Instructor Training](https://carpentries.github.io/instructor-training/)
+for the [Carpentries](https://carpentries.org/),  
+I have designed and taught the workshops below for other researchers and scientists. 
+
+## Professional assets in data science careers
 
 Workshop materials are available [in this GitHub repository](https://github.com/k8hertweck/professional_assets_data_science).
 

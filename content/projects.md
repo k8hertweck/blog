@@ -36,6 +36,13 @@ about research software engineering in R.
 All of our work for this project is publicly available on [GitHub](https://github.com/merely-useful/),
 both during and after development.
 
+## Resources for open science
+
+In my initial role at CZI (2021-2022),
+I created an [Open Science Resources website](https://chanzuckerberg.github.io/open-science/)
+to highlight information about sharing protocols, software,
+data, and preprints/publications with biomedical researchers.
+
 ## Workshops
 
 I teach workshops related to both technical and non-technical (e.g., professional development) skills.

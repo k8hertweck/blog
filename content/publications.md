@@ -11,7 +11,17 @@ including citation metrics and alt-metrics:
 - [SlideShare](https://www.slideshare.net/katehertweck)
 
 The sections below organize research deliverables by general topic,
+with topics organized roughly chronologically,
 and includes links to full text and slides (when applicable).
+
+## Open science
+
+- **Panel discussion: Developing collaborative governance for open science through public participation and inclusive knowledge**. 
+[JSPG, UNESCO & MGCY webinar for special issue](https://www.sciencepolicyjournal.org/unesco-unmgcy-open-science-special-issue-events.html) "Open Science Policies as an Accelerator for Achieving the Sustainable Development Goals", 2022.
+[video recording](https://youtu.be/TOhnun_2ZAM)
+- **Open Science in Conversation: Follow the Money - Funding Open, Diverse, Inclusive and Equitable Science Event**. [The Neuro’s Tanenbaum Open Science Institute series](https://www.mcgill.ca/neuro/channels/event/open-science-conversation-follow-money-funding-open-diverse-inclusive-and-equitable-science-338155), 2022.
+- **Fireside Chat: Shared Concerns in Open Research Communities**. The Turing Way, 2022.
+[video recording](https://youtu.be/yO3adCIXCu8)
 
 ## Training for data-intensive research 
 
@@ -28,7 +38,7 @@ and includes links to full text and slides (when applicable).
 - Kate Hertweck, 2020. **If you build it, they will come: But then what? Facilitating computational communities of practice in R**. rstudio::conf, San Francisco, CA. 
 [slides](https://www.slideshare.net/katehertweck/if-you-build-it-they-will-comebut-then-what-facilitating-communities-of-practice-in-r),
 [video recording](https://www.rstudio.com/resources/rstudioconf-2020/if-you-build-it-they-will-come-but-then-what-facilitating-communities-of-practice-in-r/)
-- **Panel discussion: Growing Inclusive, Computational Communities and Leaders**. CarpentryCon @ Home: Fireside Chat 1.
+- **Panel discussion: Growing Inclusive, Computational Communities and Leaders**. CarpentryCon @ Home 2020: Fireside Chat 1.
 [video recording](https://youtu.be/54SCfygtp5U)
 - Kate Hertweck, 2020. **Best practices in online teaching: Teaching Carpentries-style virtually**. Intelligent Systems for Molecular Biology (ISMB)  Workshop on Education in Bioinformatics (WEB), International Society for Computational Biology (ISCB).
 [video recording](https://youtu.be/rAHv6TxWszQ)

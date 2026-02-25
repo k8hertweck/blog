@@ -1,12 +1,12 @@
 ---
   aliases:
   - posts
-- articles
-- blog
-- showcase
-- docs
-tags:
+  - articles
+  - blog
+  - showcase
+  - docs
+  tags:
   - index
-title: Posts
+  title: Posts
 ---
   
